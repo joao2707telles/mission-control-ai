@@ -7,10 +7,9 @@
 
 ## Descrição do Projeto
 
-Mission Control AI é um sistema de monitoramento de missão espacial desenvolvido em Python para acompanhar condições operacionais de uma missão simulada.
+Este projeto foi desenvolvido para a Global Solution 2026.1 da disciplina Prompt and Artificial Intelligence. O sistema simula o monitoramento de uma missão espacial por meio da análise de temperatura, energia, comunicação e status dos módulos.
 
-O sistema monitora parâmetros como temperatura, nível de energia, comunicação e status dos módulos. Com base nos dados informados, são gerados alertas e recomendações automáticas para auxiliar na tomada de decisões e aumentar a segurança da operação.
-
+O sistema monitora parâmetros como temperatura, nível de energia, comunicação e status dos módulos. Quando algum parâmetro apresenta valores críticos, o sistema gera alertas e recomendações para auxiliar no monitoramento da missão.
 ## Tecnologias Utilizadas
 
 * Python
