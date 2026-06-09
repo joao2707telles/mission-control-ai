@@ -38,4 +38,4 @@ O sistema detecta temperatura elevada, baixo nível de energia e instabilidade n
 
 ## Vídeo de Demonstração
 
-Link do vídeo: COLOCAR_LINK_DO_VIDEO
+Link do vídeo: https://youtu.be/WfIMjoxV_aw
